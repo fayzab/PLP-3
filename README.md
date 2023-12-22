@@ -38,11 +38,16 @@ C++ supports recursive functions. Recursive functions are functions that call th
 C++ is a language that accepts multiple parameters in different data types as shown in the example below:
 
 
-void testCode(std::string name, int age, double height) {
+void testCode(std::string name, int age, double height){
+
     std::cout << "Name: " << name << std::endl;
+    
     std::cout << "Age: " << age << " years old" << std::endl;
+    
     std::cout << "Height: " << height << " feet " << std::endl;
+    
 } //The data types we have here are string, and integer(int), and a floating integer(double)
+
 **********
 
 
