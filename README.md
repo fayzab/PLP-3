@@ -1,16 +1,20 @@
-# PLP-3
-Functions
+# PLP-3 Functions
 
 C++ includes multiple types of loops including While loops, For loops, and Do-while loops.    
 
 
 While Loops: Repeats code so long as the boolean condition is true 
+**********
 while (true){//code };
+**********
 For Loops: Continues to execute so long as the boolean condition is true
+**********
 for (true) {//code};
+**********
 Do-while loops: Checks if the boolean condition is true or false after 1 execution
+**********
 do{//code} while (true);
-
+**********
 
 The syntax for declaring a function in C++ is the following:
 return_type function_name (parameters) {function body}
