@@ -23,7 +23,7 @@ do{//code} while (true);
 
 The syntax for declaring a function in C++ is the following:
 
-**********
+
 return_type function_name (parameters) {function body}
 **********
 
