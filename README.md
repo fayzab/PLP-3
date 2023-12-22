@@ -1,6 +1,7 @@
 # PLP-3 Functions
 
-C++ includes multiple types of loops including While loops, For loops, and Do-while loops.    
+C++ includes multiple types of loops including While loops, For loops, and Do-while loops
+
 
 
 While Loops: Repeats code so long as the boolean condition is true 
@@ -19,9 +20,12 @@ Do-while loops: Checks if the boolean condition is true or false after 1 executi
 do{//code} while (true);
 **********
 
-The syntax for declaring a function in C++ is the following:
-return_type function_name (parameters) {function body}
 
+The syntax for declaring a function in C++ is the following:
+
+**********
+return_type function_name (parameters) {function body}
+**********
 
 In C++, rules about where functions need to be placed in the code file so that it may run only matters if you don’t use function prototypes. You can define functions after the main function or any function calling it, and the code file will run and compile so long as there is a function prototype or declaration before the function is called. 
 
