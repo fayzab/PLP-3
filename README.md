@@ -89,9 +89,14 @@ Avoiding global variables: They are available throughout the entire program so f
 Sources:
 
 https://cplusplus.com/doc/tutorial/functions/
+
 https://www.educative.io/answers/how-to-return-multiple-values-from-a-function-in-cpp17
+
 https://www.geeksforgeeks.org/how-to-return-multiple-values-from-a-function-in-c-or-cpp/
+
 ​​https://www.bogotobogo.com/cplusplus/valuevsreference.php#:~:text=C%2B%2B%20uses%20call%2Dby%2Dvalue,mimic%20call%2Dby%2Dreference.
+
 https://www.geeksforgeeks.org/scope-of-variables-in-c/?ref=lbp
+
 https://www.youtube.com/watch?v=6U42W0A4ov4&t=40s
 
