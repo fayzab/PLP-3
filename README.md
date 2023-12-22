@@ -94,7 +94,7 @@ https://www.educative.io/answers/how-to-return-multiple-values-from-a-function-i
 
 https://www.geeksforgeeks.org/how-to-return-multiple-values-from-a-function-in-c-or-cpp/
 
-​​https://www.bogotobogo.com/cplusplus/valuevsreference.php#:~:text=C%2B%2B%20uses%20call%2Dby%2Dvalue,mimic%20call%2Dby%2Dreference.
+​​https://www.bogotobogo.com/cplusplus/valuevsreference.php#:~:text=C%2B%2B%20uses%20call%2Dby%2Dvalue,mimic%20call%2Dby%2Dreference
 
 https://www.geeksforgeeks.org/scope-of-variables-in-c/?ref=lbp
 
